@@ -5,7 +5,7 @@ DJI tool debug(bug)
 dji update tool debug open<br>
 
 dji網站下載 dji Assistant2<br>
-推使用mac版(但先用台mac)<br>
+推使用mac版(但先有台mac)<br>
 
 下載後安裝<br>
 
